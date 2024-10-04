@@ -71,4 +71,6 @@ header {
     font-size: 1.4rem;
     color: #ffa500;
     margin-bottom: 10px;
+    text-align: center;
+    text-transform: uppercase;
 }
