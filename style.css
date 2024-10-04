@@ -1,0 +1,74 @@
+body {
+    font-family: 'Courier New', monospace;
+    /* background-color: #2e2e2e; */
+    color: #f1f1f1;
+    margin: 0;
+    padding: 20px;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 32px 30px;
+    background-color: #333;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+.logo-container {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.logo {
+    width: 200px; /* Adjust logo size as needed */
+}
+
+.portfolio-btn a {
+    padding: 10px 20px;
+    background-color: #ffa500;
+    color: white;
+    text-decoration: none;
+    font-size: 1.1rem;
+    border-radius: 5px;
+}
+
+.portfolio-btn a:hover {
+    background-color: #ff7700;
+}
+
+
+.code-container {
+    background-color: #1e1e1e;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+.code-block {
+    color: #dcdcdc;
+    font-size: 1.2rem; /* Font size */
+    overflow-x: auto;
+    white-space: pre-wrap;
+}
+.code-block code {
+    display: block;
+    color: #9cdcfe;
+}
+.section-title {
+    font-size: 1.4rem;
+    color: #ffa500;
+    margin-bottom: 10px;
+}
