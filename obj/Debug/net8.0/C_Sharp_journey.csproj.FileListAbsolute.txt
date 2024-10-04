@@ -1,0 +1,14 @@
+C:\Users\nigam\OneDrive\Desktop\C_Sharp_journey\bin\Debug\net8.0\C_Sharp_journey.exe
+C:\Users\nigam\OneDrive\Desktop\C_Sharp_journey\bin\Debug\net8.0\C_Sharp_journey.deps.json
+C:\Users\nigam\OneDrive\Desktop\C_Sharp_journey\bin\Debug\net8.0\C_Sharp_journey.runtimeconfig.json
+C:\Users\nigam\OneDrive\Desktop\C_Sharp_journey\bin\Debug\net8.0\C_Sharp_journey.dll
+C:\Users\nigam\OneDrive\Desktop\C_Sharp_journey\bin\Debug\net8.0\C_Sharp_journey.pdb
+C:\Users\nigam\OneDrive\Desktop\C_Sharp_journey\obj\Debug\net8.0\C_Sharp_journey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nigam\OneDrive\Desktop\C_Sharp_journey\obj\Debug\net8.0\C_Sharp_journey.AssemblyInfoInputs.cache
+C:\Users\nigam\OneDrive\Desktop\C_Sharp_journey\obj\Debug\net8.0\C_Sharp_journey.AssemblyInfo.cs
+C:\Users\nigam\OneDrive\Desktop\C_Sharp_journey\obj\Debug\net8.0\C_Sharp_journey.csproj.CoreCompileInputs.cache
+C:\Users\nigam\OneDrive\Desktop\C_Sharp_journey\obj\Debug\net8.0\C_Sharp_journey.dll
+C:\Users\nigam\OneDrive\Desktop\C_Sharp_journey\obj\Debug\net8.0\refint\C_Sharp_journey.dll
+C:\Users\nigam\OneDrive\Desktop\C_Sharp_journey\obj\Debug\net8.0\C_Sharp_journey.pdb
+C:\Users\nigam\OneDrive\Desktop\C_Sharp_journey\obj\Debug\net8.0\C_Sharp_journey.genruntimeconfig.cache
+C:\Users\nigam\OneDrive\Desktop\C_Sharp_journey\obj\Debug\net8.0\ref\C_Sharp_journey.dll
