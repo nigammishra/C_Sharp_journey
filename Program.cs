@@ -461,27 +461,27 @@
 //======================= rectangletosquare ========================//
 
 
-using System;
+// using System;
 
-class rectangletosquare
-{
-    static void Main()
-    {
-        Console.WriteLine("Enter the length of the rectangle:");
-        double length = Convert.ToDouble(Console.ReadLine());
+// class rectangletosquare
+// {
+//     static void Main()
+//     {
+//         Console.WriteLine("Enter the length of the rectangle:");
+//         double length = Convert.ToDouble(Console.ReadLine());
 
-        Console.WriteLine("Enter the breadth of the rectangle:");
-        double breadth = Convert.ToDouble(Console.ReadLine());
+//         Console.WriteLine("Enter the breadth of the rectangle:");
+//         double breadth = Convert.ToDouble(Console.ReadLine());
 
-        if (length == breadth)
-        {
-            Console.WriteLine("The rectangle is a square.");
-        }
-        else
-        {
-            Console.WriteLine("The rectangle is not a square.");
-        }
-    }
-}
+//         if (length == breadth)
+//         {
+//             Console.WriteLine("The rectangle is a square.");
+//         }
+//         else
+//         {
+//             Console.WriteLine("The rectangle is not a square.");
+//         }
+//     }
+// }
 
 //======================= End ========================//
