@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C_Sharp_journey")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+566da12254df7557092fb29fa19465941ed60ce9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83240cf8ec19ff70f8600e58225c78527df85d17")]
 [assembly: System.Reflection.AssemblyProductAttribute("C_Sharp_journey")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C_Sharp_journey")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

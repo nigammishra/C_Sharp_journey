@@ -485,3 +485,112 @@
 // }
 
 //======================= End ========================//
+
+
+
+
+// using System;
+
+ 
+//  class Program {
+//     static void Main(string[] args)
+//     {
+//       // Console.Write("enter principal amount:");
+//       // double principal = Convert.ToDouble(Console.ReadLine());  
+//       // Console.Write("enter principal rate:");
+//       // double rate = Convert.ToDouble(Console.ReadLine());  
+//       // Console.Write("enter principal time:");
+//       // double time = Convert.ToDouble(Console.ReadLine());  
+//       // Console.Write("Enter the number of times interest is compounded per year (n): ");
+//       // double n = Convert.ToDouble(Console.ReadLine());
+
+//       // double CI = (principal * Math.Pow((1+(rate/(n*100))), (n * time)))- principal;
+//       // Console.WriteLine($"the compound interest is :{CI:f2}");
+
+//      int n = 4, num = 1;
+
+//         for (int i = 1; i <= n; i++) {            
+//             for (int j = 1; j <= n - i; j++) {
+//                 Console.Write(" ");  
+//             }            
+//             for (int j = 1; j <= i; j++) {
+//                 Console.Write(num + " ");
+//                 num++;
+//             }            
+//             Console.WriteLine();
+//         }
+//     }
+
+
+
+
+//     }
+
+// using System;
+// class Program {
+//     public static void Main(string[] args) {
+//         Console.WriteLine("Give the range of array:");
+//         int n = int.Parse(Console.ReadLine());
+//         int[] arr = new int[n];
+
+//         // Taking input
+//         for (int i = 0; i < n; i++) {
+//             Console.WriteLine($"Enter The Element {i+1}:");
+//             arr[i] = int.Parse(Console.ReadLine());
+//         }
+
+//         // Bubble Sort Algorithm
+//         for (int i = 0; i < n - 1; i++) {
+//             for (int j = 0; j < n - i - 1; j++) {
+//                 if (arr[j] > arr[j + 1]) {
+//                     int temp = arr[j];
+//                     arr[j] = arr[j + 1];
+//                     arr[j + 1] = temp;
+//                 }
+//             }
+//         }
+
+//         // Output the sorted array
+//         Console.WriteLine("Array after sorting:");
+//         for (int k = 0; k < arr.Length; k++) {
+//             Console.Write(arr[k] + " ");
+//         }
+//     }
+// }
+
+
+using System;
+
+class Program {
+    public static void Main(string[] args) {
+        Console.WriteLine("Give the range of array:");
+        int n = int.Parse(Console.ReadLine());
+        int[] arr = new int[n];
+
+        // Taking input
+        for (int i = 0; i < n; i++) {
+            Console.WriteLine($"Enter The Element {i + 1}:");
+            arr[i] = int.Parse(Console.ReadLine());
+        }
+
+        // Selection Sort Algorithm
+        for (int i = 0; i < n - 1; i++) {
+            int minIndex = i;
+            for (int j = i + 1; j < n; j++) {
+                if (arr[j] < arr[minIndex]) {
+                    minIndex = j;
+                }
+            }
+            // Swap elements
+            int temp = arr[minIndex];
+            arr[minIndex] = arr[i];
+            arr[i] = temp;
+        }
+
+        // Output the sorted array
+        Console.WriteLine("Array after sorting:");
+        for (int k = 0; k < arr.Length; k++) {
+            Console.Write(arr[k] + " ");
+        }
+    }
+}

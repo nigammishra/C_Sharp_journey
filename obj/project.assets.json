@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nigam\\OneDrive\\Desktop\\C_Sharp_journey\\C_Sharp_journey.csproj",
+      "projectUniqueName": "C:\\Users\\nigam\\OneDrive\\Desktop\\GitHub\\C_Sharp_journey\\C_Sharp_journey.csproj",
       "projectName": "C_Sharp_journey",
-      "projectPath": "C:\\Users\\nigam\\OneDrive\\Desktop\\C_Sharp_journey\\C_Sharp_journey.csproj",
+      "projectPath": "C:\\Users\\nigam\\OneDrive\\Desktop\\GitHub\\C_Sharp_journey\\C_Sharp_journey.csproj",
       "packagesPath": "C:\\Users\\nigam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nigam\\OneDrive\\Desktop\\C_Sharp_journey\\obj\\",
+      "outputPath": "C:\\Users\\nigam\\OneDrive\\Desktop\\GitHub\\C_Sharp_journey\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nigam\\AppData\\Roaming\\NuGet\\NuGet.Config"
